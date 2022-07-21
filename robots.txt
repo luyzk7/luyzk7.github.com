@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://lguevara.github.com/sitemap/sitemap-index.xml
-Host: https://lguevara.github.com
